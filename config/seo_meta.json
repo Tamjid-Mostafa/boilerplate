@@ -1,0 +1,25 @@
+{
+  "title": "Tamjid Mostafa",
+  "titleTemplate": "%s - PORTFOLIO",
+  "description": "Tamjid Mostafa | Full Stack Web Developer",
+  "openGraph": {
+    "title": "Tamjid Mostafa",
+    "description": "Tamjid Mostafa | Full Stack Web Developer",
+    "type": "website",
+    "url": "https://linkedin.com/tamjid-mostafa",
+    "site_name": "Portfolio",
+    "images": [
+      {
+        "url": "/card.png",
+        "width": "800",
+        "height": "600",
+        "alt": "Portfolio"
+      }
+    ]
+  },
+  "linkedin": {
+    "handle": "@tamjid-mostafa",
+    "site": "@tamjid-mostafa",
+    "cardType": "summary_large_image"
+  }
+}

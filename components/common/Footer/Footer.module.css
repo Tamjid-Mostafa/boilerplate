@@ -1,0 +1,11 @@
+.root {
+  @apply border-t border-accent-2;
+}
+
+.link {
+  @apply transform duration-75 ease-linear;
+}
+
+.link:hover {
+  @apply scale-110;
+}
