@@ -1,5 +1,5 @@
-import Button from '@/components/ui/Button'
-import Text from '@/components/ui/Text'
+
+import { Button, Text } from '@components/ui'
 import React, { useState } from 'react'
 
 const Hero = ({ heroHeading, heroDesc, heroBtn, onClick }) => {
